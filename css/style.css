@@ -11,3 +11,14 @@ nav{
     background-color: #1ABC9C;
 }
 
+.section-1 div:first-of-type{
+    color: #2C3E50;
+}
+
+#avatar-image{
+    max-height: 200px;
+}
+
+.my-col-inner{
+    min-height: 200px;
+}
